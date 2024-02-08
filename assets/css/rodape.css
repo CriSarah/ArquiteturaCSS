@@ -1,0 +1,23 @@
+.rodape {
+    text-align: center;
+    font-size: 13px;
+    font-weight: 80%;
+    background-color: #C0C0C0;
+    text-transform: lowercase;
+    padding: 1.5625re 5rem;
+
+}
+
+.a {
+
+    color: #363636; 
+    text-decoration:none;
+    transition: all .1s ease-in-out;
+   
+}
+
+.a:hover {
+    color:#1C1C1C;
+    cursor: pointer;
+    font-size:15px;
+}

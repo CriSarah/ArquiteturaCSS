@@ -11,4 +11,5 @@
 .receita__botao:hover {
     background-color: #008080; 
     cursor: pointer;
+    font-size: +20px;
 }
